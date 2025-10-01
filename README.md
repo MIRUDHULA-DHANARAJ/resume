@@ -6,9 +6,11 @@ Here, you can find the **latest version of my resume** and links to my work.
 ---
 
 ## 🔗 Quick Links
+
 [![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](MirudhulaD_resume.pdf)  
+
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/MIRUDHULA-DHANARAJ)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+
 
 ---
 
