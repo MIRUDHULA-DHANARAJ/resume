@@ -23,5 +23,5 @@ Here, you can find the **latest version of my resume** and links to my work.
 ---
 
 ## 📂 Repository Info
-- **Latest Resume:** [`Mirudhula.D_Resume.pdf`](MirudhulaD_Resume.pdf)  
+- **Latest Resume:** [`MirudhulaD_Resume.pdf`](MirudhulaD_Resume.pdf)  
 
