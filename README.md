@@ -1,33 +1,25 @@
 # 📄 Mirudhula D - Resume
 
 Welcome to my professional resume repository.  
-Here, you can find the latest version of my resume in different formats.  
+Here, you can find the **latest version of my resume** and links to my work.
 
 ---
 
-## 🔗 Quick Access
-- [Download Resume (PDF)](MirudhulaD_resume.pdf)
-- [Portfolio Website](https://mirudhula-dhanaraj.github.io/portfolio)
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
-- [GitHub Profile](https://github.com/MIRUDHULA-DHANARAJ)
+## 🔗 Quick Links
+[![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=adobeacrobatreader)](MirudhulaD_resume.pdf)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/MIRUDHULA-DHANARAJ)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
 
 ---
 
 ## 🧑‍💻 About Me
-I am a passionate AI & Data Science graduate specializing in:
-- Natural Language Processing (NLP)  
-- Generative AI  
-- Machine Learning & Data Analysis  
+🎓 AI & Data Science Graduate | NLP | Generative AI | Machine Learning  
 
-Currently seeking opportunities to contribute to impactful AI-driven projects.  
+💡 Passionate about building intelligent systems, data-driven solutions, and GenAI applications.  
+🚀 Currently seeking opportunities in AI / Data Science to contribute to impactful innovations.  
 
 ---
 
-## 📂 Repo Info
-- **Latest Resume:** `MirudhulaD_resume.pdf`  
-- **Format Available:** PDF (Docx / Text can be added soon)  
-- **Last Updated:** March 2025  
-
----
-
-⭐ If you find my profile interesting, feel free to connect with me on LinkedIn or check out my projects!
+## 📂 Repository Info
+- **Latest Resume:** [`MirudhulaD_resume.pdf`](MirudhulaD_resume.pdf)  
+-
